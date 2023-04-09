@@ -14,4 +14,5 @@ Execute the python script, paste your text, and hit enter.
 
 ## Known Issues
 
-If you tell me there's something wrong with this script, I'll curl up and cry.
+- If you tell me there's something wrong with this script, I'll curl up and cry.
+- Your text must be continous and able to be pasted into one single line, if your text wants to break into two or more separate lines it will break your text. I will look forward into this.
